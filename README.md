@@ -1,4 +1,4 @@
 # demo
 this is a demo repo for git practice
 <br>
-Author-Bibek sahoo
+Author-Mr. Bibek sahoo
